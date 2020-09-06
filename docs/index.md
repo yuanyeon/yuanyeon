@@ -19,13 +19,11 @@
 
 ### 支付业务知识
 
-+ [支付业务整理图](https://q89ol0.axshare.com)
-+ [支付路由系统业务逻辑](https://jyvqui.axshare.com)
++ [支付领域业务知识](https://q89ol0.axshare.com)
 
 ### 电商业务知识
 
 + [积分商城用户流图](https://www.figma.com/file/M4d6YUPKoUjAjFBwpV9Hat/PointStore-UX-Model?node-id=0%3A1)
-
 
 ## 分享合辑
 
