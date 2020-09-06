@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Yeon 的工作集
 
-You can use the [editor on GitHub](https://github.com/yuanyeon/yuanyeon/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人项目
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 数据分析
 
-### Markdown
++ [上海二手房可视化分析](https://public.tableau.com/views/ShangHai_HousePrice/sheet5?:display_count=y&:origin=viz_share_link)
++ [网络安全业务分析](https://public.tableau.com/profile/ye.yuan#!/vizhome/SecCorps0-1010-50ADJ/TheStoriesofCyberSecurityCompanies)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 知识分享 - The Whole Web Catalog
 
-# Header 1
-## Header 2
-### Header 3
++ [互联网漫游指南](https://www.notion.so/yeontodo/02ef4c8fab5c4afcb99979000e3d283d?v=e99c4c5651554336b811d93905321bb0)
++ [工具控速查手册](https://www.notion.so/yeontodo/f912542adee843069c0942f59f4a3699?v=9eef7100766d4b4690aa756608375e5b)
++ [The Whole Web Catalog](https://yuanyeon.github.io/The-Whole-Web-Catalog/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 业务知识
 
-**Bold** and _Italic_ and `Code` text
+### 支付业务知识
 
-[Link](url) and ![Image](src)
-```
++ [支付业务整理图](https://q89ol0.axshare.com)
++ [支付路由系统业务逻辑](https://jyvqui.axshare.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 电商业务知识
 
-### Jekyll Themes
++ [积分商城用户流图](https://www.figma.com/file/M4d6YUPKoUjAjFBwpV9Hat/PointStore-UX-Model?node-id=0%3A1)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuanyeon/yuanyeon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 分享合辑
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 笔记&想法
++ [我的读书笔记](https://yuanyeon.github.io/Notes/)
++ [我的语雀知识库](https://www.yuque.com/yeonix)
+
+### 产品相关
++ [woshipm 专栏](http://www.woshipm.com/u/672483)
++ [知乎 主页](https://www.zhihu.com/people/horus-hersey)
+
+
+
+
